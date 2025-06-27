@@ -21,7 +21,7 @@ Feel free to test the game by following the instructions below. I’ve also incl
 ![Image](https://github.com/user-attachments/assets/029b19ba-24c7-42fc-9947-cdf0254e201d)
 ![Image](https://github.com/user-attachments/assets/296132e2-c5a3-4545-95ca-f115d7eb604c)
 ![Image](https://github.com/user-attachments/assets/97a8190b-7842-40b6-94fe-9061aa65f632)
-![Image](https://github.com/user-attachments/assets/e35db902-99d5-4c2d-92d3-92204067b834)
+![Image](https://github.com/user-attachments/assets/996da63a-6d56-4c72-9047-7f793a29bb99)
 
 Thank you for your support and guidance throughout the project!
 
